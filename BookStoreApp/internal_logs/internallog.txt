@@ -2,3 +2,7 @@
 2024-12-07 13:56:54.3455 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
 2024-12-07 13:56:54.3616 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\dell\Desktop\Projeler\ASP .NET CORE WEB API\BookStoreApp\BookStoreApp\nlog.config
 2024-12-07 13:56:54.3831 Info Configuration initialized.
+2024-12-08 16:14:50.5198 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-08 16:14:50.5574 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-08 16:14:50.5884 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\dell\Desktop\Projeler\ASP .NET CORE WEB API\BookStoreApp\BookStoreApp\nlog.config
+2024-12-08 16:14:50.6051 Info Configuration initialized.
