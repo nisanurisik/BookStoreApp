@@ -9,7 +9,6 @@
       "BookStoreApp/1.0.0": {
         "dependencies": {
           "Entities": "1.0.0",
-          "Microsoft.AspNetCore.Mvc.NewtonsoftJson": "8.0.0",
           "Microsoft.EntityFrameworkCore": "9.0.0",
           "Microsoft.EntityFrameworkCore.Design": "9.0.0",
           "Microsoft.EntityFrameworkCore.SqlServer": "9.0.0",
@@ -1381,6 +1380,7 @@
         "dependencies": {
           "Microsoft.AspNet.Mvc": "5.3.0",
           "Microsoft.AspNetCore.JsonPatch": "9.0.0",
+          "Microsoft.AspNetCore.Mvc.NewtonsoftJson": "8.0.0",
           "NLog.Extensions.Logging": "5.3.15",
           "Services": "1.0.0"
         },

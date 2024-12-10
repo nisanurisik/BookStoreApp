@@ -6,3 +6,41 @@
 2024-12-08 16:14:50.5574 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
 2024-12-08 16:14:50.5884 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\dell\Desktop\Projeler\ASP .NET CORE WEB API\BookStoreApp\BookStoreApp\nlog.config
 2024-12-08 16:14:50.6051 Info Configuration initialized.
+2024-12-10 09:36:53.9595 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-10 09:36:53.9848 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-10 09:36:54.0014 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\dell\Desktop\Projeler\ASP .NET CORE WEB API\BookStoreApp\BookStoreApp\nlog.config
+2024-12-10 09:36:54.0184 Info Configuration initialized.
+2024-12-10 09:45:07.0737 Info AppDomain Shutting down. LogFactory closing...
+2024-12-10 09:45:07.0860 Info LogFactory has been closed.
+2024-12-10 09:48:07.9298 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-10 09:48:07.9501 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-10 09:48:07.9648 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\dell\Desktop\Projeler\ASP .NET CORE WEB API\BookStoreApp\BookStoreApp\nlog.config
+2024-12-10 09:48:07.9819 Info Configuration initialized.
+2024-12-10 09:48:41.2704 Info AppDomain Shutting down. LogFactory closing...
+2024-12-10 09:48:41.2816 Info LogFactory has been closed.
+2024-12-10 09:51:53.5646 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-10 09:51:53.5828 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-10 09:51:53.5968 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\dell\Desktop\Projeler\ASP .NET CORE WEB API\BookStoreApp\BookStoreApp\nlog.config
+2024-12-10 09:51:53.6121 Info Configuration initialized.
+2024-12-10 09:55:20.9408 Info AppDomain Shutting down. LogFactory closing...
+2024-12-10 09:55:21.3293 Info LogFactory has been closed.
+2024-12-10 18:45:41.4157 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-10 18:45:41.4595 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-10 18:45:41.4903 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\dell\Desktop\Projeler\ASP .NET CORE WEB API\BookStoreApp\BookStoreApp\nlog.config
+2024-12-10 18:45:41.5308 Info Configuration initialized.
+2024-12-10 18:47:00.8158 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-10 18:47:00.8389 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-10 18:47:00.8538 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\dell\Desktop\Projeler\ASP .NET CORE WEB API\BookStoreApp\BookStoreApp\nlog.config
+2024-12-10 18:47:00.8706 Info Configuration initialized.
+2024-12-10 18:59:51.4544 Info AppDomain Shutting down. LogFactory closing...
+2024-12-10 18:59:51.4544 Info LogFactory has been closed.
+2024-12-10 19:26:17.9004 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-10 19:26:17.9259 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-10 19:26:17.9424 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\dell\Desktop\Projeler\ASP .NET CORE WEB API\BookStoreApp\BookStoreApp\nlog.config
+2024-12-10 19:26:17.9602 Info Configuration initialized.
+2024-12-10 21:11:57.8475 Info AppDomain Shutting down. LogFactory closing...
+2024-12-10 21:11:57.9578 Info LogFactory has been closed.
+2024-12-10 21:58:42.3972 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-10 21:58:42.4212 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-10 21:58:42.4386 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\dell\Desktop\Projeler\ASP .NET CORE WEB API\BookStoreApp\BookStoreApp\nlog.config
+2024-12-10 21:58:42.4591 Info Configuration initialized.

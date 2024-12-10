@@ -3,8 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\dell\\Desktop\\Projeler\\ASP .NET CORE WEB API\\BookStoreApp\\BookStoreApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dell\\Desktop\\Projeler\\ASP .NET CORE WEB API\\BookStoreApp\\BookStoreApp\\obj\\Debug\\net8.0\\EndpointInfo\\BookStoreApp.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:obj\\Debug\\net8.0\\EndpointInfo\\BookStoreApp.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{CBE16C12-5846-49B2-AF76-FB5F7B425B1F}|..\\Presentation\\Presentation.csproj|c:\\users\\dell\\desktop\\projeler\\asp .net core web api\\bookstoreapp\\presentation\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBE16C12-5846-49B2-AF76-FB5F7B425B1F}|..\\Presentation\\Presentation.csproj|c:\\users\\dell\\desktop\\projeler\\asp .net core web api\\bookstoreapp\\presentation\\assemblyrefence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,25 +29,34 @@
           "SelectedChildIndex": 1,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AssemblyRefence.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\Projeler\\ASP .NET CORE WEB API\\BookStoreApp\\Presentation\\AssemblyRefence.cs",
+              "RelativeDocumentMoniker": "..\\Presentation\\AssemblyRefence.cs",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\Projeler\\ASP .NET CORE WEB API\\BookStoreApp\\Presentation\\AssemblyRefence.cs",
+              "RelativeToolTip": "..\\Presentation\\AssemblyRefence.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T18:53:23.7Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "BookStoreApp.json",
-              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\Projeler\\ASP .NET CORE WEB API\\BookStoreApp\\BookStoreApp\\obj\\Debug\\net8.0\\EndpointInfo\\BookStoreApp.json",
-              "RelativeDocumentMoniker": "obj\\Debug\\net8.0\\EndpointInfo\\BookStoreApp.json",
-              "ToolTip": "C:\\Users\\dell\\Desktop\\Projeler\\ASP .NET CORE WEB API\\BookStoreApp\\BookStoreApp\\obj\\Debug\\net8.0\\EndpointInfo\\BookStoreApp.json",
-              "RelativeToolTip": "obj\\Debug\\net8.0\\EndpointInfo\\BookStoreApp.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-12-07T11:03:59.081Z",
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\Projeler\\ASP .NET CORE WEB API\\BookStoreApp\\Presentation\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "..\\Presentation\\Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\Projeler\\ASP .NET CORE WEB API\\BookStoreApp\\Presentation\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "..\\Presentation\\Controllers\\BooksController.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAcwE8AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T18:53:22.872Z",
               "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             }
           ]
         }

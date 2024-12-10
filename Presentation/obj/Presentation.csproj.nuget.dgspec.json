@@ -133,6 +133,10 @@
               "target": "Package",
               "version": "[9.0.0, )"
             },
+            "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
             "NLog.Extensions.Logging": {
               "target": "Package",
               "version": "[5.3.15, )"
