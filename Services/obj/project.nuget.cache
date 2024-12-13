@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2sSAjhxQokU=",
+  "dgSpecHash": "SOxYHcPgq4s=",
   "success": true,
-  "projectFilePath": "C:\\Users\\dell\\Desktop\\Projeler\\ASP .NET CORE WEB API\\BookStoreApp\\Services\\Services.csproj",
+  "projectFilePath": "C:\\Users\\dell\\Desktop\\Projeler\\ASP.NET CORE WEB API\\BookStoreApp\\Services\\Services.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dell\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
     "C:\\Users\\dell\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",
@@ -89,7 +89,7 @@
       "code": "NU1903",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "'Microsoft.AspNetCore.Http' 2.1.1 paketinde önem derecesi yüksek olan bilinen bir https://github.com/advisories/GHSA-hxrm-9w7p-39cc güvenlik açığı var",
+      "message": "Package 'Microsoft.AspNetCore.Http' 2.1.1 has a known high severity vulnerability, https://github.com/advisories/GHSA-hxrm-9w7p-39cc",
       "libraryId": "Microsoft.AspNetCore.Http",
       "targetGraphs": [
         "net8.0"
@@ -99,7 +99,7 @@
       "code": "NU1903",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "'Newtonsoft.Json' 9.0.1 paketinde önem derecesi yüksek olan bilinen bir https://github.com/advisories/GHSA-5crp-9r3c-p9vr güvenlik açığı var",
+      "message": "Package 'Newtonsoft.Json' 9.0.1 has a known high severity vulnerability, https://github.com/advisories/GHSA-5crp-9r3c-p9vr",
       "libraryId": "Newtonsoft.Json",
       "targetGraphs": [
         "net8.0"
@@ -109,7 +109,7 @@
       "code": "NU1904",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "'System.Text.Encodings.Web' 4.5.0 paketinde önem derecesi kritik olan bilinen bir https://github.com/advisories/GHSA-ghhp-997w-qr28 güvenlik açığı var",
+      "message": "Package 'System.Text.Encodings.Web' 4.5.0 has a known critical severity vulnerability, https://github.com/advisories/GHSA-ghhp-997w-qr28",
       "libraryId": "System.Text.Encodings.Web",
       "targetGraphs": [
         "net8.0"

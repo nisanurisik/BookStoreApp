@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dell\\Desktop\\Projeler\\ASP .NET CORE WEB API\\BookStoreApp\\Entities\\Entities.csproj": {}
+    "C:\\Users\\dell\\Desktop\\Projeler\\ASP.NET CORE WEB API\\BookStoreApp\\Entities\\Entities.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dell\\Desktop\\Projeler\\ASP .NET CORE WEB API\\BookStoreApp\\Entities\\Entities.csproj": {
+    "C:\\Users\\dell\\Desktop\\Projeler\\ASP.NET CORE WEB API\\BookStoreApp\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dell\\Desktop\\Projeler\\ASP .NET CORE WEB API\\BookStoreApp\\Entities\\Entities.csproj",
+        "projectUniqueName": "C:\\Users\\dell\\Desktop\\Projeler\\ASP.NET CORE WEB API\\BookStoreApp\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "C:\\Users\\dell\\Desktop\\Projeler\\ASP .NET CORE WEB API\\BookStoreApp\\Entities\\Entities.csproj",
+        "projectPath": "C:\\Users\\dell\\Desktop\\Projeler\\ASP.NET CORE WEB API\\BookStoreApp\\Entities\\Entities.csproj",
         "packagesPath": "C:\\Users\\dell\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dell\\Desktop\\Projeler\\ASP .NET CORE WEB API\\BookStoreApp\\Entities\\obj\\",
+        "outputPath": "C:\\Users\\dell\\Desktop\\Projeler\\ASP.NET CORE WEB API\\BookStoreApp\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

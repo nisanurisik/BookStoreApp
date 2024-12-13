@@ -1,12 +1,15 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\dell\\Desktop\\Projeler\\ASP .NET CORE WEB API\\BookStoreApp\\BookStoreApp\\",
+  "WorkspaceRootPath": "C:\\Users\\dell\\Desktop\\Projeler\\ASP.NET CORE WEB API\\BookStoreApp\\BookStoreApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CBE16C12-5846-49B2-AF76-FB5F7B425B1F}|..\\Presentation\\Presentation.csproj|c:\\users\\dell\\desktop\\projeler\\asp .net core web api\\bookstoreapp\\presentation\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{01A5E56C-827A-41B1-BFF4-F4B7F4AD6ECC}|..\\Services\\Services.csproj|c:\\users\\dell\\desktop\\projeler\\asp.net core web api\\bookstoreapp\\services\\bookmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CBE16C12-5846-49B2-AF76-FB5F7B425B1F}|..\\Presentation\\Presentation.csproj|c:\\users\\dell\\desktop\\projeler\\asp .net core web api\\bookstoreapp\\presentation\\assemblyrefence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{01A5E56C-827A-41B1-BFF4-F4B7F4AD6ECC}|..\\Services\\Services.csproj|c:\\users\\dell\\desktop\\projeler\\asp.net core web api\\bookstoreapp\\services\\loggermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBE16C12-5846-49B2-AF76-FB5F7B425B1F}|..\\Presentation\\Presentation.csproj|c:\\users\\dell\\desktop\\projeler\\asp.net core web api\\bookstoreapp\\presentation\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,33 +29,11 @@
         },
         {
           "DockedHeight": 217,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AssemblyRefence.cs",
-              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\Projeler\\ASP .NET CORE WEB API\\BookStoreApp\\Presentation\\AssemblyRefence.cs",
-              "RelativeDocumentMoniker": "..\\Presentation\\AssemblyRefence.cs",
-              "ToolTip": "C:\\Users\\dell\\Desktop\\Projeler\\ASP .NET CORE WEB API\\BookStoreApp\\Presentation\\AssemblyRefence.cs",
-              "RelativeToolTip": "..\\Presentation\\AssemblyRefence.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T18:53:23.7Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "BooksController.cs",
-              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\Projeler\\ASP .NET CORE WEB API\\BookStoreApp\\Presentation\\Controllers\\BooksController.cs",
-              "RelativeDocumentMoniker": "..\\Presentation\\Controllers\\BooksController.cs",
-              "ToolTip": "C:\\Users\\dell\\Desktop\\Projeler\\ASP .NET CORE WEB API\\BookStoreApp\\Presentation\\Controllers\\BooksController.cs",
-              "RelativeToolTip": "..\\Presentation\\Controllers\\BooksController.cs",
-              "ViewState": "AgIAADQAAAAAAAAAAAAcwE8AAAA/AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T18:53:22.872Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
             },
             {
               "$type": "Bookmark",
@@ -61,6 +42,45 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookManager.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\Projeler\\ASP.NET CORE WEB API\\BookStoreApp\\Services\\BookManager.cs",
+              "RelativeDocumentMoniker": "..\\Services\\BookManager.cs",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\Projeler\\ASP.NET CORE WEB API\\BookStoreApp\\Services\\BookManager.cs",
+              "RelativeToolTip": "..\\Services\\BookManager.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAADkAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T09:31:37.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoggerManager.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\Projeler\\ASP.NET CORE WEB API\\BookStoreApp\\Services\\LoggerManager.cs",
+              "RelativeDocumentMoniker": "..\\Services\\LoggerManager.cs",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\Projeler\\ASP.NET CORE WEB API\\BookStoreApp\\Services\\LoggerManager.cs",
+              "RelativeToolTip": "..\\Services\\LoggerManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T09:31:30.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\Projeler\\ASP.NET CORE WEB API\\BookStoreApp\\Presentation\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "..\\Presentation\\Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\Projeler\\ASP.NET CORE WEB API\\BookStoreApp\\Presentation\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "..\\Presentation\\Controllers\\BooksController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T06:03:47.238Z",
+              "EditorCaption": ""
             }
           ]
         }

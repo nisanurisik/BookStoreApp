@@ -4411,11 +4411,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dell\\Desktop\\Projeler\\ASP .NET CORE WEB API\\BookStoreApp\\Services\\Services.csproj",
+      "projectUniqueName": "C:\\Users\\dell\\Desktop\\Projeler\\ASP.NET CORE WEB API\\BookStoreApp\\Services\\Services.csproj",
       "projectName": "Services",
-      "projectPath": "C:\\Users\\dell\\Desktop\\Projeler\\ASP .NET CORE WEB API\\BookStoreApp\\Services\\Services.csproj",
+      "projectPath": "C:\\Users\\dell\\Desktop\\Projeler\\ASP.NET CORE WEB API\\BookStoreApp\\Services\\Services.csproj",
       "packagesPath": "C:\\Users\\dell\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dell\\Desktop\\Projeler\\ASP .NET CORE WEB API\\BookStoreApp\\Services\\obj\\",
+      "outputPath": "C:\\Users\\dell\\Desktop\\Projeler\\ASP.NET CORE WEB API\\BookStoreApp\\Services\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -4439,11 +4439,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\dell\\Desktop\\Projeler\\ASP .NET CORE WEB API\\BookStoreApp\\Entities\\Entities.csproj": {
-              "projectPath": "C:\\Users\\dell\\Desktop\\Projeler\\ASP .NET CORE WEB API\\BookStoreApp\\Entities\\Entities.csproj"
+            "C:\\Users\\dell\\Desktop\\Projeler\\ASP.NET CORE WEB API\\BookStoreApp\\Entities\\Entities.csproj": {
+              "projectPath": "C:\\Users\\dell\\Desktop\\Projeler\\ASP.NET CORE WEB API\\BookStoreApp\\Entities\\Entities.csproj"
             },
-            "C:\\Users\\dell\\Desktop\\Projeler\\ASP .NET CORE WEB API\\BookStoreApp\\Repositories\\Repositories.csproj": {
-              "projectPath": "C:\\Users\\dell\\Desktop\\Projeler\\ASP .NET CORE WEB API\\BookStoreApp\\Repositories\\Repositories.csproj"
+            "C:\\Users\\dell\\Desktop\\Projeler\\ASP.NET CORE WEB API\\BookStoreApp\\Repositories\\Repositories.csproj": {
+              "projectPath": "C:\\Users\\dell\\Desktop\\Projeler\\ASP.NET CORE WEB API\\BookStoreApp\\Repositories\\Repositories.csproj"
             }
           }
         }
@@ -4502,7 +4502,7 @@
       "code": "NU1903",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "'Microsoft.AspNetCore.Http' 2.1.1 paketinde önem derecesi yüksek olan bilinen bir https://github.com/advisories/GHSA-hxrm-9w7p-39cc güvenlik açığı var",
+      "message": "Package 'Microsoft.AspNetCore.Http' 2.1.1 has a known high severity vulnerability, https://github.com/advisories/GHSA-hxrm-9w7p-39cc",
       "libraryId": "Microsoft.AspNetCore.Http",
       "targetGraphs": [
         "net8.0"
@@ -4512,7 +4512,7 @@
       "code": "NU1903",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "'Newtonsoft.Json' 9.0.1 paketinde önem derecesi yüksek olan bilinen bir https://github.com/advisories/GHSA-5crp-9r3c-p9vr güvenlik açığı var",
+      "message": "Package 'Newtonsoft.Json' 9.0.1 has a known high severity vulnerability, https://github.com/advisories/GHSA-5crp-9r3c-p9vr",
       "libraryId": "Newtonsoft.Json",
       "targetGraphs": [
         "net8.0"
@@ -4522,7 +4522,7 @@
       "code": "NU1904",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "'System.Text.Encodings.Web' 4.5.0 paketinde önem derecesi kritik olan bilinen bir https://github.com/advisories/GHSA-ghhp-997w-qr28 güvenlik açığı var",
+      "message": "Package 'System.Text.Encodings.Web' 4.5.0 has a known critical severity vulnerability, https://github.com/advisories/GHSA-ghhp-997w-qr28",
       "libraryId": "System.Text.Encodings.Web",
       "targetGraphs": [
         "net8.0"

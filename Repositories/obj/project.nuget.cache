@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bLFYydDWIl4=",
+  "dgSpecHash": "poLtYo/+lC0=",
   "success": true,
-  "projectFilePath": "C:\\Users\\dell\\Desktop\\Projeler\\ASP .NET CORE WEB API\\BookStoreApp\\Repositories\\Repositories.csproj",
+  "projectFilePath": "C:\\Users\\dell\\Desktop\\Projeler\\ASP.NET CORE WEB API\\BookStoreApp\\Repositories\\Repositories.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dell\\.nuget\\packages\\microsoft.entityframeworkcore\\9.0.0\\microsoft.entityframeworkcore.9.0.0.nupkg.sha512",
     "C:\\Users\\dell\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\9.0.0\\microsoft.entityframeworkcore.abstractions.9.0.0.nupkg.sha512",
