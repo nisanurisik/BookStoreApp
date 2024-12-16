@@ -9,6 +9,8 @@ using System.Threading.Tasks;
 using Entities.Exceptions;
 using AutoMapper;
 using Entities.DataTransferObjects;
+using Entities.RequestFeatures;
+using static Entities.Exceptions.BadRequestException;
 
 namespace Services
 {
@@ -41,10 +43,13 @@ namespace Services
             await _manager.SaveAsync();
         }
 
-        public async Task<IEnumerable<BookDto>> GetAllBooksAsync(bool trackChanges)
+        public async Task<(IEnumerable<BookDto> books, MetaData metaData)> GetAllBooksAsync(BookParameters bookParameters, bool trackChanges)
         {
-            var boks = await _manager.Book.GetAllBooksAsync(trackChanges);
-            return _mapper.Map<IEnumerable<BookDto>>(boks);
+            if (!bookParameters.ValidPriceRange)
+                throw new PriceOutofRangeBadRequestException();
+            var booksWithMetaData = await _manager.Book.GetAllBooksAsync(bookParameters, trackChanges);
+            var booksDto = _mapper.Map<IEnumerable<BookDto>>(booksWithMetaData);
+            return (booksDto, booksWithMetaData.MetaData);
         }
 
         public async Task<BookDto> GetOneBookByIdAsync(int id, bool trackChanges)
