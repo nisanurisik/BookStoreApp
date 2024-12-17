@@ -392,3 +392,4 @@ C:\Users\dell\Desktop\Projeler\ASP.NET CORE WEB API\BookStoreApp\BookStoreApp\ob
 C:\Users\dell\Desktop\Projeler\ASP.NET CORE WEB API\BookStoreApp\BookStoreApp\obj\Debug\net8.0\BookStoreApp.pdb
 C:\Users\dell\Desktop\Projeler\ASP.NET CORE WEB API\BookStoreApp\BookStoreApp\obj\Debug\net8.0\BookStoreApp.genruntimeconfig.cache
 C:\Users\dell\Desktop\Projeler\ASP.NET CORE WEB API\BookStoreApp\BookStoreApp\obj\Debug\net8.0\ref\BookStoreApp.dll
+C:\Users\dell\Desktop\Projeler\ASP.NET CORE WEB API\BookStoreApp\BookStoreApp\bin\Debug\net8.0\System.Linq.Dynamic.Core.dll

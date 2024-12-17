@@ -3,16 +3,7 @@
   "WorkspaceRootPath": "C:\\Users\\dell\\Desktop\\Projeler\\ASP.NET CORE WEB API\\BookStoreApp\\BookStoreApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FA958445-10E0-4A7A-8E8B-304558C8F644}|..\\Entities\\Entities.csproj|c:\\users\\dell\\desktop\\projeler\\asp.net core web api\\bookstoreapp\\entities\\requestfeatures\\bookparameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6B72BB9F-D405-484A-8B2A-8DBCF356E6F6}|..\\Repositories\\Repositories.csproj|c:\\users\\dell\\desktop\\projeler\\asp.net core web api\\bookstoreapp\\repositories\\repositories.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6B72BB9F-D405-484A-8B2A-8DBCF356E6F6}|..\\Repositories\\Repositories.csproj|c:\\users\\dell\\desktop\\projeler\\asp.net core web api\\bookstoreapp\\repositories\\efcore\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6B72BB9F-D405-484A-8B2A-8DBCF356E6F6}|..\\Repositories\\Repositories.csproj|c:\\users\\dell\\desktop\\projeler\\asp.net core web api\\bookstoreapp\\repositories\\efcore\\extensions\\bookrepositoryextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FA958445-10E0-4A7A-8E8B-304558C8F644}|..\\Entities\\Entities.csproj|c:\\users\\dell\\desktop\\projeler\\asp.net core web api\\bookstoreapp\\entities\\requestfeatures\\requestparameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,62 +13,23 @@
       "DocumentGroups": [
         {
           "DockedHeight": 499,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Repositories",
-              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\Projeler\\ASP.NET CORE WEB API\\BookStoreApp\\Repositories\\Repositories.csproj",
-              "RelativeDocumentMoniker": "..\\Repositories\\Repositories.csproj",
-              "ToolTip": "C:\\Users\\dell\\Desktop\\Projeler\\ASP.NET CORE WEB API\\BookStoreApp\\Repositories\\Repositories.csproj",
-              "RelativeToolTip": "..\\Repositories\\Repositories.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-12-16T06:40:33.657Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "BookRepositoryExtensions.cs",
-              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\Projeler\\ASP.NET CORE WEB API\\BookStoreApp\\Repositories\\EfCore\\Extensions\\BookRepositoryExtensions.cs",
-              "RelativeDocumentMoniker": "..\\Repositories\\EfCore\\Extensions\\BookRepositoryExtensions.cs",
-              "ToolTip": "C:\\Users\\dell\\Desktop\\Projeler\\ASP.NET CORE WEB API\\BookStoreApp\\Repositories\\EfCore\\Extensions\\BookRepositoryExtensions.cs",
-              "RelativeToolTip": "..\\Repositories\\EfCore\\Extensions\\BookRepositoryExtensions.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAwwBoAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T06:40:10.497Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "BookRepository.cs",
-              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\Projeler\\ASP.NET CORE WEB API\\BookStoreApp\\Repositories\\EfCore\\BookRepository.cs",
-              "RelativeDocumentMoniker": "..\\Repositories\\EfCore\\BookRepository.cs",
-              "ToolTip": "C:\\Users\\dell\\Desktop\\Projeler\\ASP.NET CORE WEB API\\BookStoreApp\\Repositories\\EfCore\\BookRepository.cs",
-              "RelativeToolTip": "..\\Repositories\\EfCore\\BookRepository.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAswB0AAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T06:39:29.347Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "BookParameters.cs",
-              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\Projeler\\ASP.NET CORE WEB API\\BookStoreApp\\Entities\\RequestFeatures\\BookParameters.cs",
-              "RelativeDocumentMoniker": "..\\Entities\\RequestFeatures\\BookParameters.cs",
-              "ToolTip": "C:\\Users\\dell\\Desktop\\Projeler\\ASP.NET CORE WEB API\\BookStoreApp\\Entities\\RequestFeatures\\BookParameters.cs",
-              "RelativeToolTip": "..\\Entities\\RequestFeatures\\BookParameters.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAvAAAAAAAAAA==",
+              "Title": "RequestParameters.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\Projeler\\ASP.NET CORE WEB API\\BookStoreApp\\Entities\\RequestFeatures\\RequestParameters.cs",
+              "RelativeDocumentMoniker": "..\\Entities\\RequestFeatures\\RequestParameters.cs",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\Projeler\\ASP.NET CORE WEB API\\BookStoreApp\\Entities\\RequestFeatures\\RequestParameters.cs",
+              "RelativeToolTip": "..\\Entities\\RequestFeatures\\RequestParameters.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAA9wBYAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T06:38:07.945Z",
+              "WhenOpened": "2024-12-17T05:45:58.549Z",
               "EditorCaption": ""
             }
           ]
