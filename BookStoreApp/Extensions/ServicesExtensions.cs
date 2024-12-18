@@ -4,6 +4,7 @@ using Services.Contracts;
 using Repositories.EfCore;
 using Services;
 using Presentation.ActionFilters;
+using Entities.DataTransferObjects;
 
 namespace BookStoreApp.Extensions
 {
@@ -40,6 +41,11 @@ namespace BookStoreApp.Extensions
                 .WithExposedHeaders("X-Pagination")
                 );
             });
+        }
+
+        public static void ConfigureDataShaper(this IServiceCollection services)
+        {
+            services.AddScoped<IDataShaper<BookDto>, DataShaper<BookDto>>();
         }
     }
 }
