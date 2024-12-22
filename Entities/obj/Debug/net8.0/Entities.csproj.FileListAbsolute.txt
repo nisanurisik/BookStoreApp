@@ -22,3 +22,4 @@ C:\Users\dell\Desktop\Projeler\ASP.NET CORE WEB API\BookStoreApp\Entities\obj\De
 C:\Users\dell\Desktop\Projeler\ASP.NET CORE WEB API\BookStoreApp\Entities\obj\Debug\net8.0\refint\Entities.dll
 C:\Users\dell\Desktop\Projeler\ASP.NET CORE WEB API\BookStoreApp\Entities\obj\Debug\net8.0\Entities.pdb
 C:\Users\dell\Desktop\Projeler\ASP.NET CORE WEB API\BookStoreApp\Entities\obj\Debug\net8.0\ref\Entities.dll
+C:\Users\dell\Desktop\Projeler\ASP.NET CORE WEB API\BookStoreApp\Entities\obj\Debug\net8.0\Entities.csproj.AssemblyReference.cache

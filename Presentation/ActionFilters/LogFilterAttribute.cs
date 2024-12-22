@@ -20,16 +20,18 @@ namespace Presentation.ActionFilters
         }
 
         private string Log(string modelName, RouteData routeData)
+        {
+            var logDetails = new LogDetails()
             {
-                var logDetils = new LogDetails()
-                {
-                    ModelModel = modelName,
-                    Controller = routeData.Values["controller"],
-                    Action = routeData.Values["action"]
-                };
+                ModelModel = modelName,
+                Controller = routeData.Values["controller"],
+                Action = routeData.Values["Id"]
+            };
+
             if (routeData.Values.Count >= 3)
-                logDetils.Id = routeData.Values["Id"];
-            return logDetils.ToString();
-            }
+                logDetails.Id = routeData.Values["Id"];
+
+            return logDetails.ToString();
+        }
     }
 }
