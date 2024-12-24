@@ -1,1 +1,0 @@
-2024-12-18 09:28:56.1045 INFO {"ModelModel":"OnActionExecuting","Controller":"Books","Action":"GetAllBooks","Id":null,"CreatAt":"2024-12-18T06:28:56.071056Z"}

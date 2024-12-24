@@ -34,9 +34,9 @@ namespace Services
         private IEnumerable<PropertyInfo> GetRequiredProperties(string fieldsString)
         {
             var requiredFields = new List<PropertyInfo>();
-            if (!string.IsNullOrWhiteSpace(fieldsString))
+            if(!string.IsNullOrWhiteSpace(fieldsString))
             {
-                var fields = fieldsString.Split(',',
+                var fields = fieldsString.Split(',', 
                     StringSplitOptions.RemoveEmptyEntries);
 
                 foreach (var field in fields)
@@ -57,7 +57,7 @@ namespace Services
             return requiredFields;
         }
 
-        private ShapedEntity FetchDataForEntity(T entity,
+        private ShapedEntity FetchDataForEntity(T entity, 
             IEnumerable<PropertyInfo> requiredProperties)
         {
             var shapedObject = new ShapedEntity();
@@ -74,7 +74,7 @@ namespace Services
             return shapedObject;
         }
 
-        private IEnumerable<ShapedEntity> FetchData(IEnumerable<T> entities,
+        private IEnumerable<ShapedEntity> FetchData(IEnumerable<T> entities, 
             IEnumerable<PropertyInfo> requiredProperties)
         {
             var shapedData = new List<ShapedEntity>();

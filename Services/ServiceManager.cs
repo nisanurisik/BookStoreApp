@@ -13,7 +13,7 @@ namespace Services
             IMapper mapper,
             IBookLinks bookLinks)
         {
-            _bookService = new Lazy<IBookService>(() =>
+            _bookService = new Lazy<IBookService>(() => 
             new BookManager(repositoryManager, logger, mapper, bookLinks));
         }
         public IBookService BookService => _bookService.Value;

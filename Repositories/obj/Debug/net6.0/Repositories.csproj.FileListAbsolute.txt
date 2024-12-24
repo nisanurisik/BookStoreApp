@@ -1,0 +1,31 @@
+F:\Courses\AspDotnetCoreWebApi\Applications\bsStoreApp\Repositories\bin\Debug\net6.0\Repositories.deps.json
+F:\Courses\AspDotnetCoreWebApi\Applications\bsStoreApp\Repositories\bin\Debug\net6.0\Repositories.dll
+F:\Courses\AspDotnetCoreWebApi\Applications\bsStoreApp\Repositories\bin\Debug\net6.0\Repositories.pdb
+F:\Courses\AspDotnetCoreWebApi\Applications\bsStoreApp\Repositories\bin\Debug\net6.0\Entities.dll
+F:\Courses\AspDotnetCoreWebApi\Applications\bsStoreApp\Repositories\bin\Debug\net6.0\Entities.pdb
+F:\Courses\AspDotnetCoreWebApi\Applications\bsStoreApp\Repositories\obj\Debug\net6.0\Repositories.csproj.AssemblyReference.cache
+F:\Courses\AspDotnetCoreWebApi\Applications\bsStoreApp\Repositories\obj\Debug\net6.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+F:\Courses\AspDotnetCoreWebApi\Applications\bsStoreApp\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfoInputs.cache
+F:\Courses\AspDotnetCoreWebApi\Applications\bsStoreApp\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfo.cs
+F:\Courses\AspDotnetCoreWebApi\Applications\bsStoreApp\Repositories\obj\Debug\net6.0\Repositories.csproj.CoreCompileInputs.cache
+F:\Courses\AspDotnetCoreWebApi\Applications\bsStoreApp\Repositories\obj\Debug\net6.0\Repositories.csproj.CopyComplete
+F:\Courses\AspDotnetCoreWebApi\Applications\bsStoreApp\Repositories\obj\Debug\net6.0\Repositories.dll
+F:\Courses\AspDotnetCoreWebApi\Applications\bsStoreApp\Repositories\obj\Debug\net6.0\refint\Repositories.dll
+F:\Courses\AspDotnetCoreWebApi\Applications\bsStoreApp\Repositories\obj\Debug\net6.0\Repositories.pdb
+F:\Courses\AspDotnetCoreWebApi\Applications\bsStoreApp\Repositories\obj\Debug\net6.0\ref\Repositories.dll
+C:\Users\dell\Desktop\Projeler\ASP.NET CORE WEB API\BookStoreApp\Repositories\bin\Debug\net6.0\Repositories.deps.json
+C:\Users\dell\Desktop\Projeler\ASP.NET CORE WEB API\BookStoreApp\Repositories\bin\Debug\net6.0\Repositories.dll
+C:\Users\dell\Desktop\Projeler\ASP.NET CORE WEB API\BookStoreApp\Repositories\bin\Debug\net6.0\Repositories.pdb
+C:\Users\dell\Desktop\Projeler\ASP.NET CORE WEB API\BookStoreApp\Repositories\bin\Debug\net6.0\Entities.dll
+C:\Users\dell\Desktop\Projeler\ASP.NET CORE WEB API\BookStoreApp\Repositories\bin\Debug\net6.0\Entities.pdb
+C:\Users\dell\Desktop\Projeler\ASP.NET CORE WEB API\BookStoreApp\Repositories\obj\Debug\net6.0\Repositories.csproj.AssemblyReference.cache
+C:\Users\dell\Desktop\Projeler\ASP.NET CORE WEB API\BookStoreApp\Repositories\obj\Debug\net6.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\Desktop\Projeler\ASP.NET CORE WEB API\BookStoreApp\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfoInputs.cache
+C:\Users\dell\Desktop\Projeler\ASP.NET CORE WEB API\BookStoreApp\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfo.cs
+C:\Users\dell\Desktop\Projeler\ASP.NET CORE WEB API\BookStoreApp\Repositories\obj\Debug\net6.0\Repositories.csproj.CoreCompileInputs.cache
+C:\Users\dell\Desktop\Projeler\ASP.NET CORE WEB API\BookStoreApp\Repositories\obj\Debug\net6.0\Repositories.sourcelink.json
+C:\Users\dell\Desktop\Projeler\ASP.NET CORE WEB API\BookStoreApp\Repositories\obj\Debug\net6.0\Reposito.787EC4B2.Up2Date
+C:\Users\dell\Desktop\Projeler\ASP.NET CORE WEB API\BookStoreApp\Repositories\obj\Debug\net6.0\Repositories.dll
+C:\Users\dell\Desktop\Projeler\ASP.NET CORE WEB API\BookStoreApp\Repositories\obj\Debug\net6.0\refint\Repositories.dll
+C:\Users\dell\Desktop\Projeler\ASP.NET CORE WEB API\BookStoreApp\Repositories\obj\Debug\net6.0\Repositories.pdb
+C:\Users\dell\Desktop\Projeler\ASP.NET CORE WEB API\BookStoreApp\Repositories\obj\Debug\net6.0\ref\Repositories.dll

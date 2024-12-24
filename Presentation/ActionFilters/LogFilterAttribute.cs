@@ -1,7 +1,7 @@
-﻿using Services.Contracts;
-using Microsoft.AspNetCore.Routing;
+﻿using Entities.LogModel;
 using Microsoft.AspNetCore.Mvc.Filters;
-using Entities.LogModel;
+using Microsoft.AspNetCore.Routing;
+using Services.Contracts;
 
 namespace Presentation.ActionFilters
 {
@@ -30,7 +30,7 @@ namespace Presentation.ActionFilters
 
             if (routeData.Values.Count >= 3)
                 logDetails.Id = routeData.Values["Id"];
-
+            
             return logDetails.ToString();
         }
     }

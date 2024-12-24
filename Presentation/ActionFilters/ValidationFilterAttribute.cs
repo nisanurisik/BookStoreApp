@@ -1,9 +1,7 @@
-﻿using Microsoft.AspNetCore.Http.HttpResults;
-using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Filters;
 using System;
 using System.Collections.Generic;
-using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -21,11 +19,11 @@ namespace Presentation.ActionFilters
             var param = context.ActionArguments
                 .SingleOrDefault(p => p.Value.ToString().Contains("Dto")).Value;
 
-            if (param is null)
+            if(param is null)
             {
                 context.Result = new BadRequestObjectResult($"Object is null. " +
                     $"Controller : {controller} " +
-                    $"Action :  {action}");
+                    $"Action :  {action}" );
                 return; // 400
             }
 

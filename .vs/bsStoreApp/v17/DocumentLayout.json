@@ -1,0 +1,107 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dell\\Desktop\\Projeler\\ASP.NET CORE WEB API\\BookStoreApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FED1654F-2575-42DF-AE9E-B19B6812F7B3}|WebApi\\WebApi.csproj|c:\\users\\dell\\desktop\\projeler\\asp.net core web api\\bookstoreapp\\webapi\\extensions\\servicesextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FED1654F-2575-42DF-AE9E-B19B6812F7B3}|WebApi\\WebApi.csproj|solutionrelative:webapi\\extensions\\servicesextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E370A53-E2D0-4AC1-998C-41C89196AD1A}|Presentation\\Presentation.csproj|c:\\users\\dell\\desktop\\projeler\\asp.net core web api\\bookstoreapp\\presentation\\controllers\\booksv2controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E370A53-E2D0-4AC1-998C-41C89196AD1A}|Presentation\\Presentation.csproj|solutionrelative:presentation\\controllers\\booksv2controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E370A53-E2D0-4AC1-998C-41C89196AD1A}|Presentation\\Presentation.csproj|c:\\users\\dell\\desktop\\projeler\\asp.net core web api\\bookstoreapp\\presentation\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E370A53-E2D0-4AC1-998C-41C89196AD1A}|Presentation\\Presentation.csproj|solutionrelative:presentation\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E370A53-E2D0-4AC1-998C-41C89196AD1A}|Presentation\\Presentation.csproj|c:\\users\\dell\\desktop\\projeler\\asp.net core web api\\bookstoreapp\\presentation\\controllers\\rootcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E370A53-E2D0-4AC1-998C-41C89196AD1A}|Presentation\\Presentation.csproj|solutionrelative:presentation\\controllers\\rootcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ServicesExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\Projeler\\ASP.NET CORE WEB API\\BookStoreApp\\WebApi\\Extensions\\ServicesExtensions.cs",
+              "RelativeDocumentMoniker": "WebApi\\Extensions\\ServicesExtensions.cs",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\Projeler\\ASP.NET CORE WEB API\\BookStoreApp\\WebApi\\Extensions\\ServicesExtensions.cs",
+              "RelativeToolTip": "WebApi\\Extensions\\ServicesExtensions.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAADwvz8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T10:19:36.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RootController.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\Projeler\\ASP.NET CORE WEB API\\BookStoreApp\\Presentation\\Controllers\\RootController.cs",
+              "RelativeDocumentMoniker": "Presentation\\Controllers\\RootController.cs",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\Projeler\\ASP.NET CORE WEB API\\BookStoreApp\\Presentation\\Controllers\\RootController.cs",
+              "RelativeToolTip": "Presentation\\Controllers\\RootController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T10:19:36.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BooksV2Controller.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\Projeler\\ASP.NET CORE WEB API\\BookStoreApp\\Presentation\\Controllers\\BooksV2Controller.cs",
+              "RelativeDocumentMoniker": "Presentation\\Controllers\\BooksV2Controller.cs",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\Projeler\\ASP.NET CORE WEB API\\BookStoreApp\\Presentation\\Controllers\\BooksV2Controller.cs",
+              "RelativeToolTip": "Presentation\\Controllers\\BooksV2Controller.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwsAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T10:19:36.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\Projeler\\ASP.NET CORE WEB API\\BookStoreApp\\Presentation\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "Presentation\\Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\Projeler\\ASP.NET CORE WEB API\\BookStoreApp\\Presentation\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "Presentation\\Controllers\\BooksController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T10:19:36.954Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

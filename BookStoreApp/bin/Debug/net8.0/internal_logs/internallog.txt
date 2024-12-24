@@ -1,6 +1,0 @@
-2024-12-13 09:00:28.8749 Info Registered target NLog.Targets.FileTarget(Name=logfile)
-2024-12-13 09:00:28.9357 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
-2024-12-13 09:00:28.9522 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\dell\Desktop\Projeler\ASP.NET CORE WEB API\BookStoreApp\BookStoreApp\bin\Debug\net8.0\nlog.config
-2024-12-13 09:00:28.9700 Info Configuration initialized.
-2024-12-13 09:01:26.8627 Info AppDomain Shutting down. LogFactory closing...
-2024-12-13 09:01:26.8755 Info LogFactory has been closed.

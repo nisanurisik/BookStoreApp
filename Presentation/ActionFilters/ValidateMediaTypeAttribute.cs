@@ -13,9 +13,9 @@ namespace Presentation.ActionFilters
                 .Headers
                 .ContainsKey("Accept");
 
-            if (!acceptHeaderPresent)
+            if(!acceptHeaderPresent)
             {
-                context.Result =
+                context.Result = 
                     new BadRequestObjectResult($"Accept header is missing!");
                 return;
             }
@@ -25,7 +25,7 @@ namespace Presentation.ActionFilters
                 .Headers["Accept"]
                 .FirstOrDefault();
 
-            if (!MediaTypeHeaderValue.TryParse(mediaType, out MediaTypeHeaderValue? outMediaType))
+            if(!MediaTypeHeaderValue.TryParse(mediaType, out MediaTypeHeaderValue? outMediaType))
             {
                 context.Result =
                     new BadRequestObjectResult($"Media type not present. " +
