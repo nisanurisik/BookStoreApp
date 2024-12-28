@@ -2,6 +2,24 @@
   "version": 3,
   "targets": {
     "net6.0": {
+      "AspNetCoreRateLimit/4.0.1": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Extensions.Caching.Abstractions": "5.0.0",
+          "Microsoft.Extensions.Logging.Abstractions": "5.0.0",
+          "Microsoft.Extensions.Options": "5.0.0",
+          "Newtonsoft.Json": "13.0.1"
+        },
+        "compile": {
+          "lib/net5.0/AspNetCoreRateLimit.dll": {}
+        },
+        "runtime": {
+          "lib/net5.0/AspNetCoreRateLimit.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
+      },
       "AutoMapper/12.0.0": {
         "type": "package",
         "dependencies": {
@@ -1983,6 +2001,20 @@
     }
   },
   "libraries": {
+    "AspNetCoreRateLimit/4.0.1": {
+      "sha512": "UYcf0m3RuFBFJJz9dvwsbId4HWOpnDBxFoQNV8JHKs5mh2NUTLcaZbgUpog7zkO0/vk/R56e47x2EeeGkBRtsA==",
+      "type": "package",
+      "path": "aspnetcoreratelimit/4.0.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "aspnetcoreratelimit.4.0.1.nupkg.sha512",
+        "aspnetcoreratelimit.nuspec",
+        "lib/net5.0/AspNetCoreRateLimit.dll",
+        "lib/netcoreapp3.1/AspNetCoreRateLimit.dll",
+        "lib/netstandard2.0/AspNetCoreRateLimit.dll"
+      ]
+    },
     "AutoMapper/12.0.0": {
       "sha512": "0Rmg0zI5AFu1O/y//o9VGyhxKjhggWpk9mOA1tp0DEVx40c61bs+lnQv+0jUq8XbniF7FKgIVvI1perqiMtLrA==",
       "type": "package",
@@ -5664,6 +5696,7 @@
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "AspNetCoreRateLimit >= 4.0.1",
       "Entities >= 1.0.0",
       "Microsoft.EntityFrameworkCore >= 6.0.0",
       "Microsoft.EntityFrameworkCore.Design >= 6.0.0",
@@ -5676,52 +5709,43 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\dell\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
-    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Users\\zafer\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dell\\Desktop\\Projeler\\ASP.NET CORE WEB API\\BookStoreApp\\WebApi\\WebApi.csproj",
+      "projectUniqueName": "F:\\Courses\\AspDotnetCoreWebApi\\Applications\\bsStoreApp\\WebApi\\WebApi.csproj",
       "projectName": "WebApi",
-      "projectPath": "C:\\Users\\dell\\Desktop\\Projeler\\ASP.NET CORE WEB API\\BookStoreApp\\WebApi\\WebApi.csproj",
-      "packagesPath": "C:\\Users\\dell\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dell\\Desktop\\Projeler\\ASP.NET CORE WEB API\\BookStoreApp\\WebApi\\obj\\",
+      "projectPath": "F:\\Courses\\AspDotnetCoreWebApi\\Applications\\bsStoreApp\\WebApi\\WebApi.csproj",
+      "packagesPath": "C:\\Users\\zafer\\.nuget\\packages\\",
+      "outputPath": "F:\\Courses\\AspDotnetCoreWebApi\\Applications\\bsStoreApp\\WebApi\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
-      ],
       "configFilePaths": [
-        "C:\\Users\\dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Users\\zafer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\dell\\Desktop\\Projeler\\ASP.NET CORE WEB API\\BookStoreApp\\Entities\\Entities.csproj": {
-              "projectPath": "C:\\Users\\dell\\Desktop\\Projeler\\ASP.NET CORE WEB API\\BookStoreApp\\Entities\\Entities.csproj"
+            "F:\\Courses\\AspDotnetCoreWebApi\\Applications\\bsStoreApp\\Entities\\Entities.csproj": {
+              "projectPath": "F:\\Courses\\AspDotnetCoreWebApi\\Applications\\bsStoreApp\\Entities\\Entities.csproj"
             },
-            "C:\\Users\\dell\\Desktop\\Projeler\\ASP.NET CORE WEB API\\BookStoreApp\\Presentation\\Presentation.csproj": {
-              "projectPath": "C:\\Users\\dell\\Desktop\\Projeler\\ASP.NET CORE WEB API\\BookStoreApp\\Presentation\\Presentation.csproj"
+            "F:\\Courses\\AspDotnetCoreWebApi\\Applications\\bsStoreApp\\Presentation\\Presentation.csproj": {
+              "projectPath": "F:\\Courses\\AspDotnetCoreWebApi\\Applications\\bsStoreApp\\Presentation\\Presentation.csproj"
             },
-            "C:\\Users\\dell\\Desktop\\Projeler\\ASP.NET CORE WEB API\\BookStoreApp\\Repositories\\Repositories.csproj": {
-              "projectPath": "C:\\Users\\dell\\Desktop\\Projeler\\ASP.NET CORE WEB API\\BookStoreApp\\Repositories\\Repositories.csproj"
+            "F:\\Courses\\AspDotnetCoreWebApi\\Applications\\bsStoreApp\\Repositories\\Repositories.csproj": {
+              "projectPath": "F:\\Courses\\AspDotnetCoreWebApi\\Applications\\bsStoreApp\\Repositories\\Repositories.csproj"
             },
-            "C:\\Users\\dell\\Desktop\\Projeler\\ASP.NET CORE WEB API\\BookStoreApp\\Services\\Services.csproj": {
-              "projectPath": "C:\\Users\\dell\\Desktop\\Projeler\\ASP.NET CORE WEB API\\BookStoreApp\\Services\\Services.csproj"
+            "F:\\Courses\\AspDotnetCoreWebApi\\Applications\\bsStoreApp\\Services\\Services.csproj": {
+              "projectPath": "F:\\Courses\\AspDotnetCoreWebApi\\Applications\\bsStoreApp\\Services\\Services.csproj"
             }
           }
         }
@@ -5730,18 +5754,16 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "all"
-      },
-      "SdkAnalysisLevel": "9.0.100"
+      }
     },
     "frameworks": {
       "net6.0": {
         "targetAlias": "net6.0",
         "dependencies": {
+          "AspNetCoreRateLimit": {
+            "target": "Package",
+            "version": "[4.0.1, )"
+          },
           "Microsoft.EntityFrameworkCore": {
             "target": "Package",
             "version": "[6.0.0, )"
@@ -5786,90 +5808,8 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
       }
     }
-  },
-  "logs": [
-    {
-      "code": "NU1903",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Package 'Microsoft.Data.SqlClient' 2.1.4 has a known high severity vulnerability, https://github.com/advisories/GHSA-98g6-xh36-x2p7",
-      "libraryId": "Microsoft.Data.SqlClient",
-      "targetGraphs": [
-        "net6.0"
-      ]
-    },
-    {
-      "code": "NU1903",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Package 'Microsoft.Extensions.Caching.Memory' 6.0.0 has a known high severity vulnerability, https://github.com/advisories/GHSA-qj66-m88j-hmgj",
-      "libraryId": "Microsoft.Extensions.Caching.Memory",
-      "targetGraphs": [
-        "net6.0"
-      ]
-    },
-    {
-      "code": "NU1902",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Package 'Microsoft.IdentityModel.JsonWebTokens' 6.8.0 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-59j7-ghrg-fj52",
-      "libraryId": "Microsoft.IdentityModel.JsonWebTokens",
-      "targetGraphs": [
-        "net6.0"
-      ]
-    },
-    {
-      "code": "NU1902",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Package 'Swashbuckle.AspNetCore.SwaggerUI' 6.2.3 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-qrmm-w75w-3wpx",
-      "libraryId": "Swashbuckle.AspNetCore.SwaggerUI",
-      "targetGraphs": [
-        "net6.0"
-      ]
-    },
-    {
-      "code": "NU1904",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Package 'System.Drawing.Common' 4.7.0 has a known critical severity vulnerability, https://github.com/advisories/GHSA-rxg9-xrhp-64gj",
-      "libraryId": "System.Drawing.Common",
-      "targetGraphs": [
-        "net6.0"
-      ]
-    },
-    {
-      "code": "NU1902",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Package 'System.IdentityModel.Tokens.Jwt' 6.8.0 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-59j7-ghrg-fj52",
-      "libraryId": "System.IdentityModel.Tokens.Jwt",
-      "targetGraphs": [
-        "net6.0"
-      ]
-    },
-    {
-      "code": "NU1904",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Package 'System.Linq.Dynamic.Core' 1.2.23 has a known critical severity vulnerability, https://github.com/advisories/GHSA-w65q-jcmv-28gj",
-      "libraryId": "System.Linq.Dynamic.Core",
-      "targetGraphs": [
-        "net6.0"
-      ]
-    },
-    {
-      "code": "NU1904",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Package 'System.Text.Encodings.Web' 4.5.0 has a known critical severity vulnerability, https://github.com/advisories/GHSA-ghhp-997w-qr28",
-      "libraryId": "System.Text.Encodings.Web",
-      "targetGraphs": [
-        "net6.0"
-      ]
-    }
-  ]
+  }
 }

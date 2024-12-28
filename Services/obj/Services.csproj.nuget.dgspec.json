@@ -1,34 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dell\\Desktop\\Projeler\\ASP.NET CORE WEB API\\BookStoreApp\\Services\\Services.csproj": {}
+    "F:\\Courses\\AspDotnetCoreWebApi\\Applications\\bsStoreApp\\Services\\Services.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dell\\Desktop\\Projeler\\ASP.NET CORE WEB API\\BookStoreApp\\Entities\\Entities.csproj": {
+    "F:\\Courses\\AspDotnetCoreWebApi\\Applications\\bsStoreApp\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dell\\Desktop\\Projeler\\ASP.NET CORE WEB API\\BookStoreApp\\Entities\\Entities.csproj",
+        "projectUniqueName": "F:\\Courses\\AspDotnetCoreWebApi\\Applications\\bsStoreApp\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "C:\\Users\\dell\\Desktop\\Projeler\\ASP.NET CORE WEB API\\BookStoreApp\\Entities\\Entities.csproj",
-        "packagesPath": "C:\\Users\\dell\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dell\\Desktop\\Projeler\\ASP.NET CORE WEB API\\BookStoreApp\\Entities\\obj\\",
+        "projectPath": "F:\\Courses\\AspDotnetCoreWebApi\\Applications\\bsStoreApp\\Entities\\Entities.csproj",
+        "packagesPath": "C:\\Users\\zafer\\.nuget\\packages\\",
+        "outputPath": "F:\\Courses\\AspDotnetCoreWebApi\\Applications\\bsStoreApp\\Entities\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "C:\\Users\\dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\zafer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -41,13 +34,7 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "all"
-        },
-        "SdkAnalysisLevel": "9.0.100"
+        }
       },
       "frameworks": {
         "net6.0": {
@@ -74,43 +61,36 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\dell\\Desktop\\Projeler\\ASP.NET CORE WEB API\\BookStoreApp\\Repositories\\Repositories.csproj": {
+    "F:\\Courses\\AspDotnetCoreWebApi\\Applications\\bsStoreApp\\Repositories\\Repositories.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dell\\Desktop\\Projeler\\ASP.NET CORE WEB API\\BookStoreApp\\Repositories\\Repositories.csproj",
+        "projectUniqueName": "F:\\Courses\\AspDotnetCoreWebApi\\Applications\\bsStoreApp\\Repositories\\Repositories.csproj",
         "projectName": "Repositories",
-        "projectPath": "C:\\Users\\dell\\Desktop\\Projeler\\ASP.NET CORE WEB API\\BookStoreApp\\Repositories\\Repositories.csproj",
-        "packagesPath": "C:\\Users\\dell\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dell\\Desktop\\Projeler\\ASP.NET CORE WEB API\\BookStoreApp\\Repositories\\obj\\",
+        "projectPath": "F:\\Courses\\AspDotnetCoreWebApi\\Applications\\bsStoreApp\\Repositories\\Repositories.csproj",
+        "packagesPath": "C:\\Users\\zafer\\.nuget\\packages\\",
+        "outputPath": "F:\\Courses\\AspDotnetCoreWebApi\\Applications\\bsStoreApp\\Repositories\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "C:\\Users\\dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\zafer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\dell\\Desktop\\Projeler\\ASP.NET CORE WEB API\\BookStoreApp\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\dell\\Desktop\\Projeler\\ASP.NET CORE WEB API\\BookStoreApp\\Entities\\Entities.csproj"
+              "F:\\Courses\\AspDotnetCoreWebApi\\Applications\\bsStoreApp\\Entities\\Entities.csproj": {
+                "projectPath": "F:\\Courses\\AspDotnetCoreWebApi\\Applications\\bsStoreApp\\Entities\\Entities.csproj"
               }
             }
           }
@@ -119,13 +99,7 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "all"
-        },
-        "SdkAnalysisLevel": "9.0.100"
+        }
       },
       "frameworks": {
         "net6.0": {
@@ -156,46 +130,39 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\dell\\Desktop\\Projeler\\ASP.NET CORE WEB API\\BookStoreApp\\Services\\Services.csproj": {
+    "F:\\Courses\\AspDotnetCoreWebApi\\Applications\\bsStoreApp\\Services\\Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dell\\Desktop\\Projeler\\ASP.NET CORE WEB API\\BookStoreApp\\Services\\Services.csproj",
+        "projectUniqueName": "F:\\Courses\\AspDotnetCoreWebApi\\Applications\\bsStoreApp\\Services\\Services.csproj",
         "projectName": "Services",
-        "projectPath": "C:\\Users\\dell\\Desktop\\Projeler\\ASP.NET CORE WEB API\\BookStoreApp\\Services\\Services.csproj",
-        "packagesPath": "C:\\Users\\dell\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dell\\Desktop\\Projeler\\ASP.NET CORE WEB API\\BookStoreApp\\Services\\obj\\",
+        "projectPath": "F:\\Courses\\AspDotnetCoreWebApi\\Applications\\bsStoreApp\\Services\\Services.csproj",
+        "packagesPath": "C:\\Users\\zafer\\.nuget\\packages\\",
+        "outputPath": "F:\\Courses\\AspDotnetCoreWebApi\\Applications\\bsStoreApp\\Services\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "C:\\Users\\dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\zafer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\dell\\Desktop\\Projeler\\ASP.NET CORE WEB API\\BookStoreApp\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\dell\\Desktop\\Projeler\\ASP.NET CORE WEB API\\BookStoreApp\\Entities\\Entities.csproj"
+              "F:\\Courses\\AspDotnetCoreWebApi\\Applications\\bsStoreApp\\Entities\\Entities.csproj": {
+                "projectPath": "F:\\Courses\\AspDotnetCoreWebApi\\Applications\\bsStoreApp\\Entities\\Entities.csproj"
               },
-              "C:\\Users\\dell\\Desktop\\Projeler\\ASP.NET CORE WEB API\\BookStoreApp\\Repositories\\Repositories.csproj": {
-                "projectPath": "C:\\Users\\dell\\Desktop\\Projeler\\ASP.NET CORE WEB API\\BookStoreApp\\Repositories\\Repositories.csproj"
+              "F:\\Courses\\AspDotnetCoreWebApi\\Applications\\bsStoreApp\\Repositories\\Repositories.csproj": {
+                "projectPath": "F:\\Courses\\AspDotnetCoreWebApi\\Applications\\bsStoreApp\\Repositories\\Repositories.csproj"
               }
             }
           }
@@ -204,13 +171,7 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "all"
-        },
-        "SdkAnalysisLevel": "9.0.100"
+        }
       },
       "frameworks": {
         "net6.0": {
@@ -241,7 +202,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     }

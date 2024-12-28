@@ -218,10 +218,7 @@
           "Microsoft.AspNetCore.Mvc.Abstractions": "2.2.0"
         },
         "runtime": {
-          "Entities.dll": {
-            "assemblyVersion": "1.0.0",
-            "fileVersion": "1.0.0.0"
-          }
+          "Entities.dll": {}
         }
       }
     }

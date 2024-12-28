@@ -275,10 +275,7 @@
           "Microsoft.AspNetCore.Mvc.Abstractions": "2.2.0"
         },
         "runtime": {
-          "Entities.dll": {
-            "assemblyVersion": "1.0.0",
-            "fileVersion": "1.0.0.0"
-          }
+          "Entities.dll": {}
         }
       },
       "Repositories/1.0.0": {
@@ -288,10 +285,7 @@
           "System.Linq.Dynamic.Core": "1.2.23"
         },
         "runtime": {
-          "Repositories.dll": {
-            "assemblyVersion": "1.0.0",
-            "fileVersion": "1.0.0.0"
-          }
+          "Repositories.dll": {}
         }
       }
     }
